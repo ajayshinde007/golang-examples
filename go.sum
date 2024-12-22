@@ -1,4 +1,12 @@
 github.com/ajayshinde007/golang_dog v0.0.0-20241215142532-9559fc1f9af8 h1:QzEhziqQy/4e80aqlUNVKkkTJd4XTqCw7AoJ6l6X3HM=
 github.com/ajayshinde007/golang_dog v0.0.0-20241215142532-9559fc1f9af8/go.mod h1:+G/K7urNU3GLiC8OfsfJJU3KKOZFQqupCIgdpWodEWs=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241215141318-825f790b2eed h1:V27qJUEu4wbLQEnqVVhtgN3f81Jfj8R4F5PoSejRPr0=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241215141318-825f790b2eed/go.mod h1:1Ung6mhwlz6HyXgSBeYZ2t+UoraZlk3qmrb+QhFBoYU=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241215143256-bd076d449c20 h1:6yCs9ow9ejjOlOgsrLrVqJJBG9ksVYLBzAbNF8vBmtI=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241215143256-bd076d449c20/go.mod h1:YD+LsuqGUArZh93Boe8QWrq9QoUCn5mMnX5vrWxvEos=
 github.com/ajayshinde007/golang_puppy v0.0.0-20241215185832-28217b4865f7 h1:Kg2/XrptuNYKEr0Xx0M+f0m9UvmtnKDSAZ9UohYH+js=
 github.com/ajayshinde007/golang_puppy v0.0.0-20241215185832-28217b4865f7/go.mod h1:YD+LsuqGUArZh93Boe8QWrq9QoUCn5mMnX5vrWxvEos=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241215191520-483c8ffa3d40 h1:XofnQxL1SYDbOFDIu/i5Z4Q3fMg6yKraOmpyP50n3TI=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241215191520-483c8ffa3d40/go.mod h1:YD+LsuqGUArZh93Boe8QWrq9QoUCn5mMnX5vrWxvEos=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241221221126-e1558c0c996d h1:/zadMl2CR4SeDsu4hP6Gqm52GvFAks+6mppQWOUNq/0=
+github.com/ajayshinde007/golang_puppy v0.0.0-20241221221126-e1558c0c996d/go.mod h1:YD+LsuqGUArZh93Boe8QWrq9QoUCn5mMnX5vrWxvEos=
